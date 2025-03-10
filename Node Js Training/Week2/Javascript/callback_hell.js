@@ -1,4 +1,4 @@
-//Callback Hell in JavaScript can be defined as the situation where we have nested callbacks(functions passed as arguments to other functions) which makes the code difficult to read and debug.
+//======================================Callback Hell================================================
 function task1(callback) {
     setTimeout(() => {
         console.log("Task One completed");
